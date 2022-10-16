@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocairiton/blog-js.git"
+  },
+  "author": "cairiton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaocairiton/blog-js/issues"
+  },
+  "homepage": "https://github.com/joaocairiton/blog-js#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
